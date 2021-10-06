@@ -1,24 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Header from "./Head/Header";
+import Headerr from "./Head/Headerr";
+import ImageSlider from "./Body/slideShow";
+import Cards from "./components/cards";
 
+import theme from "./theme";
+import { ThemeProvider } from "@material-ui/core/styles";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <Header />
+      <Headerr />
+      <ImageSlider/>
+      
+      Hello Peter
+    </ThemeProvider>
   );
 }
 
