@@ -40,6 +40,7 @@ const ImageSlider = () => {
       {imageUrl.map((slide, index) => {
         return (
           <div
+          style={{marginTop:"-180px"}}
             className={index === current ? "slide active" : "slide"}
             key={index}>
             {index === current && (

@@ -47,7 +47,7 @@ const useStyles = makeStyles((theme) => ({
     fontSize: "16px",
     display: "flex",
     backgroundColor: "#FFF",
-    flexGrow: 1,
+    width: "700px",
     // height: "80%",
     // "& .MuiSvgIcon-root": {
     //   marginRight: theme.spacing(1),
