@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amazon-landing-page/static/css/main.8b11e93f.chunk.css",
+    "main.js": "/amazon-landing-page/static/js/main.cd987d55.chunk.js",
+    "main.js.map": "/amazon-landing-page/static/js/main.cd987d55.chunk.js.map",
+    "runtime-main.js": "/amazon-landing-page/static/js/runtime-main.8db2b72c.js",
+    "runtime-main.js.map": "/amazon-landing-page/static/js/runtime-main.8db2b72c.js.map",
+    "static/js/2.5ca7182c.chunk.js": "/amazon-landing-page/static/js/2.5ca7182c.chunk.js",
+    "static/js/2.5ca7182c.chunk.js.map": "/amazon-landing-page/static/js/2.5ca7182c.chunk.js.map",
+    "static/js/3.3a748037.chunk.js": "/amazon-landing-page/static/js/3.3a748037.chunk.js",
+    "static/js/3.3a748037.chunk.js.map": "/amazon-landing-page/static/js/3.3a748037.chunk.js.map",
+    "index.html": "/amazon-landing-page/index.html",
+    "static/css/main.8b11e93f.chunk.css.map": "/amazon-landing-page/static/css/main.8b11e93f.chunk.css.map",
+    "static/js/2.5ca7182c.chunk.js.LICENSE.txt": "/amazon-landing-page/static/js/2.5ca7182c.chunk.js.LICENSE.txt",
+    "static/media/logo.a9cdc3e7.png": "/amazon-landing-page/static/media/logo.a9cdc3e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8db2b72c.js",
+    "static/js/2.5ca7182c.chunk.js",
+    "static/css/main.8b11e93f.chunk.css",
+    "static/js/main.cd987d55.chunk.js"
+  ]
+}
