@@ -1,7 +1,7 @@
 {
   "name": "amazonui",
   "version": "0.1.0",
-  "homepage": "https://k-e-s-h-a-v.github.io/amazon-landing-page",
+  "homepage": "https://k-e-s-h-a-v.github.io/amazonui/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
